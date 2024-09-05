@@ -1,0 +1,20 @@
+body{
+    /* background-image: url(../backgrounds/IMG_3269.jpg); */
+    background-image: url(../backgrounds/—Pngtree—blue\ education\ hand\ drawn\ book_1177992.jpg);
+   font-family:'Montserrat' ;
+   background-size: cover;
+   color: #6b4106;
+}
+h1{
+    font-size: 60px;
+}
+.button{
+    background-color: #c08300f0;
+    padding-inline: 20px;
+    padding-block: 5px;
+    font-weight: bold;
+    color: #6b4106;
+border: 2px solid #6b4106 !important; 
+
+}
+
